@@ -54,14 +54,3 @@ WHERE email = 'rahim@gmail.com'
 DELETE USERS
 WHERE email = 'rahim@gmail.com'
 
-
-
-
-
-
-
-
-
-
-
-
